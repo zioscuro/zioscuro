@@ -24,7 +24,6 @@ I'm Lorenzo Ranghiasci, an architect and BIM coordinator based in Italy with a s
 - Three.js
 - MySQL
 - Jakarta EE
-- FDS
 
 ### Contact me through:
 - [Linkedin](https://www.linkedin.com/in/lorenzo-ranghiasci-859a36111/)
