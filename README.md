@@ -20,6 +20,7 @@ I'm Lorenzo Ranghiasci, an architect and BIM coordinator based in Italy with a s
 
 ### I love using:
 - PyRevit
+- HTML + CSS
 - Vanilla Javascript
 - Three.js
 - MySQL
