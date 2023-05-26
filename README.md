@@ -12,6 +12,7 @@ I'm Lorenzo Ranghiasci, an architect and BIM coordinator based in Italy with a s
 - Revit
 - Architectural Design
 - Fire Safety Engineering
+- System Administration
 
 ### I usually code in:
 - Javascript
@@ -23,8 +24,9 @@ I'm Lorenzo Ranghiasci, an architect and BIM coordinator based in Italy with a s
 - HTML + CSS
 - Vanilla Javascript
 - Three.js
+- ifc.js
 - MySQL
-- Jakarta EE
+- Java EE
 
 ### Contact me through:
 - [Linkedin](https://www.linkedin.com/in/lorenzo-ranghiasci-859a36111/)
