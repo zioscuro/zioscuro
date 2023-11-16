@@ -17,16 +17,14 @@ I'm Lorenzo Ranghiasci, an architect and BIM coordinator based in Italy with a s
 ### I usually code in:
 - Javascript
 - Python
-- Java
 
 ### I love using:
 - PyRevit
 - HTML + CSS
 - Vanilla Javascript
+- Typescript
 - Three.js
-- ifc.js
-- MySQL
-- Java EE
+- ifc.js/ThatOpenEngine
 
 ### Contact me through:
 - [Linkedin](https://www.linkedin.com/in/lorenzo-ranghiasci-859a36111/)
