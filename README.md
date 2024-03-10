@@ -25,7 +25,9 @@ I'm Lorenzo Ranghiasci, an architect and BIM coordinator based in Italy with a s
 - Typescript
 - Three.js
 - ifc.js/ThatOpenEngine
+- Django
 
 ### Contact me through:
 - [Linkedin](https://www.linkedin.com/in/lorenzo-ranghiasci-859a36111/)
 - [Twitter](https://twitter.com/Zioscuro)
+- [Personal site](https://lorenzoranghiasci.com/)
